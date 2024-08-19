@@ -32,7 +32,7 @@ const CarList = () => {
         <div className="options">
           <div className="icons">
             <input type="text" className="search" placeholder="Search..." />
-            <img src="./assets/menu.svg" className="menu" alt="Menu" />
+            <img src="/menu.svg" className="menu" alt="Menu" />
           </div>
           <div className="filter">
             <div className="chk-container">
